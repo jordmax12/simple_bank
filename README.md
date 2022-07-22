@@ -1,2 +1,2 @@
-### Simple Bank
-# Simple CRUD application for learning golang.
+# Simple Bank
+### Simple CRUD application for learning golang.
